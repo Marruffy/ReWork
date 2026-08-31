@@ -1,0 +1,4 @@
+langchain
+pandas
+numpy
+google-genai
